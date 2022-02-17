@@ -1,5 +1,7 @@
 treinando o uso do git e github
 
+PRIMEIRO COMMIT
+
 1 - abra o Git Bush na pasta que está o arquivo
 2 - git init: foi inicializado um repositório git vazio.
 	ao finalizar o comando vai aparecer entre parenteses (master ou main) o que significa  que você está dentro da branch master, é a linha do tempo principal criado automaticamente.
