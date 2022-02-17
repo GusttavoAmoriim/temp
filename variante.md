@@ -6,3 +6,9 @@ criando uma ramificação da branch principal "main"
 3  - git commit -m "nome do commit"
  não precisa do git remote pois a conexão já foi criada no primeiro commit
 4 - git push origin "nome da nova branch sem aspas"
+
+
+----------------------------
+para voltar pra branch main, "git checkout main" e para ir para branch criada "git checkout nome_da_branch". veja que não tem o -b
+
+estando na na branch main, o comando git merge "nome da branch" unifica as duas branch. confirme com "git push origin main"
